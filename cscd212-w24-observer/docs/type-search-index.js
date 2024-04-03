@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"cscd212classes.observable","l":"AwesomeDeals"},{"p":"cscd212classes.observers","l":"EmailDeals"},{"p":"cscd212classes.lab3","l":"ObserverPatternClient"},{"p":"cscd212classes.observers","l":"TextDeals"}];updateSearchResults();

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cscd212classes.lab3"},{"l":"cscd212classes.observable"},{"l":"cscd212classes.observers"}];updateSearchResults();

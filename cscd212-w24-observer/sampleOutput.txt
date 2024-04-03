@@ -1,0 +1,24 @@
+EmailDeals - Subscribed Daily: [new -> Daily Deal]
+EmailDeals - Subscribed Hourly: [new -> Hourly Deal]
+
+EmailDeals - New Daily:  [old -> Daily Deal] | [new -> Daily Day 2]
+EmailDeals - New Hourly:  [old -> Hourly Deal] | [new -> Hourly Deal 2]
+
+EmailDeals - Subscribed Daily: [new -> Daily Day 2]
+TextDeals - Subscribed Daily: [new -> Daily Day 2]
+EmailDeals - Subscribed Hourly: [new -> Hourly Deal 2]
+TextDeals - Subscribed Hourly: [new -> Hourly Deal 2]
+
+Email: stusteiner@yahoo.com Does not exist
+
+EmailDeals - New Hourly:  [old -> Hourly Deal 2] | [new -> Hourly Deal 3]
+TextDeals - New Hourly:  [old -> Hourly Deal 2] | [new -> Hourly Deal 3]
+
+Removed stusteiner@aol.com
+
+TextDeals - New Hourly:  [old -> Hourly Deal 3] | [new -> Hourly Deal 4]
+
+Removed 509-111-2233
+
+EmailDeals - New Daily:  [old -> Daily Day 2] | [new -> Daily Day 3]
+
